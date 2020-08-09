@@ -1,11 +1,11 @@
 # cljctools
 
-cljctools is a namespace for solving problems freely, for the purpose of value only.
-So it is and will be non-commercial, non-monetized by design.
-Open source.
-It's just tools. 
-All members are owners - so please don't mess up.
-Secure, because members have forks. It's just people.
+cljctools is a namespace for solving problems freely, for the purpose of value only.    
+So it is and will be non-commercial, non-monetized by design.   
+Open source.  
+It's just tools.     
+All members are owners - so please don't mess up.   
+Secure, because members have forks. It's just people.   
 
 ## why not monetize this project ? you're an idiot
 
