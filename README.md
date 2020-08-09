@@ -20,3 +20,9 @@ As Jesus says:
 > <b>24 “No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.</b>
 
 source: [NIV Bible, Matthew:6](https://www.biblica.com/bible/niv/matthew/6/)
+
+
+## links
+- mailing list
+  - https://groups.google.com/g/cljctools
+  - cljctools@googlegroups.com
