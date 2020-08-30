@@ -46,8 +46,9 @@ Secure, because members have forks. It's just people.
   - origin cluster: an automated volunteer self-forming cloud  https://github.com/DeathStarGame/docs/blob/master/origin-cluster/origin-cluster.md#origin-a-volunteer-automated-cluster
   - opensource database: would it be possible to make a db like dgraph, but with clojure language itself as a query language?
   - ...
-- who is all for
-  - for users
+- who is it all for
+  - for users - user facing systems
+  - any tool will be made only if it is needed - needed - for an end-user system or creation of such system
 
 ## why not monetize this project ? you're an idiot
 
